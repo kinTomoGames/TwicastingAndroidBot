@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ツイキャスBOT</string>
+    <string name="user_id">対象ユーザーID</string>
+    <string name="user_comment">コメント</string>
+    <string name="bot_start">BOT開始！</string>
+    <string name="bot_stop">BOT停止！</string>
+</resources>
